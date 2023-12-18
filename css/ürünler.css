@@ -1,0 +1,61 @@
+.top-text {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px; /* İstenilen düzeyde ayarlayabilirsiniz */
+  }
+  .top-bottom-text{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 12px; /* İstenilen düzeyde ayarlayabilirsiniz */
+  }
+  .icon {
+    font-size: 16px;
+    vertical-align: middle;
+    margin-left: 10px; /* İkon ile metin arasındaki boşluğu isteğinize göre ayarlayabilirsiniz */
+  }  
+  .place {
+    max-width: 400px; /* Örnek bir genişlik değeri */
+    margin: 20px auto; /* Ortalamak için */
+  }
+  
+  .place img {
+    width: 100%;
+    border-radius: 10px; /* Kenar yumuşatma */
+  }
+  
+  .place h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  .place .location {
+    font-weight: bold;
+    padding: 0px 8px;
+    color: white;
+    font-size: 14px;
+    margin: 5px 0;
+    background-color: rgba(0, 0, 0, 0.793);
+    border-radius: 6px;
+    width: min-content;
+  }
+  
+  .place .description {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  .place .more-info {
+    display: block;
+    width: min-content;
+    padding: 8px 15px;
+    color: white;
+    background-color: #3498db; /* Örnek bir renk */
+    border-radius: 5px;
+  }
+
+  
+  
+   
